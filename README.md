@@ -58,7 +58,10 @@ It is also known as the safety or rolling stop and as the "Idaho stop" (which al
    - Signed into law by Governor Kate Brown
    - Supported by Rep. Smith Warner and Sen. Floyd Prozanski, the bill’s chief sponsor
    - Additional context: https://bikeportland.org/2019/06/25/oregon-passes-law-to-allow-bike-riders-to-treat-stop-signs-as-yields-301829
-- To be updated
+- Washington
+   - September 1, 2020: Safety Stop bill ([SB 6208](http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Senate%20Passed%20Legislature/6208-S.PL.pdf#page=1)
+      - https://sdotblog.seattle.gov/2020/09/30/washington-states-new-bicycle-safety-stop-law-allows-people-biking-to-treat-stops-signs-as-yield-signs-with-some-exceptions/
+      - https://wabikes.org/2020/03/18/an-intuitive-new-law-the-safety-stop-is-coming-to-washington/ 
 
 ## Bike Crashes
 ### Involving a Car
