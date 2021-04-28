@@ -27,7 +27,7 @@ Under a Stop as Yield law, when a cyclist approaches an intersection controlled 
 
 It is also known as the safety or rolling stop and as the "Idaho stop" (which also adds Red as Stop) as it was the first state to introduce the law, back in 1982.
 
-
+Summary: https://bikeleague.org/sites/default/files/IdahoStop-DelawareYield_8_2018.pdf
 
 
 
