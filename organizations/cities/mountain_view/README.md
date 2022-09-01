@@ -39,6 +39,8 @@ network overlaps inconsistencies, and gaps between the different plans and studi
 
 [table 2-2](../../../images/mv_btp_2015_fig2-2_bikeways-proposed.png)
 
+## El Camino Real Streetscape Plan (2019)
+https://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=31039
 
 ## [Major Projects in the Pipeline](https://www.mountainview.gov/depts/pw/transport/transportation_planning/default.asp)
 ### California/Escuela/Shoreline Complete Streets Study
