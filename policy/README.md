@@ -2,6 +2,8 @@
 https://nacto.org/publication/urban-street-design-guide/street-design-elements/lane-width/
 - Lane widths of 10 feet are appropriate in urban areas and have a positive impact on a street’s safety without impacting traffic operations.
 
+- Good article with quotes re the benefit of 10 ft lanes: https://www.bloomberg.com/news/articles/2014-10-06/why-12-foot-traffic-lanes-are-disastrous-for-safety-and-must-be-replaced-now 
+   - "When lanes are built too wide, pedestrians are forced to walk further across streets on which cars are moving too fast and bikes don't fit."
 
 ## Road diet
 
